@@ -1,0 +1,3 @@
+http://gsec.hitb.org/materials/sg2015/D2%20-%20Valerie%20Thomas%20-%20Attacking%20Physical%20Access%20Systems.pdf
+http://gsec.hitb.org/materials/sg2015/KEYNOTE%203%20-%20Winn%20Schwartau%20-%20Analogue%20Network%20Security.pdf
+http://gsec.hitb.org/materials/sg2015/D2%20-%20Xeno%20Kovah%20-%20Thunderstrike%202%20-%20Sith%20Strike.pdf
